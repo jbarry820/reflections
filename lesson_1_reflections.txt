@@ -12,4 +12,4 @@ git log - this gives me the log so I can get the commit id. git diff - this give
 
 How might using version control make you more confident to make changes that could break something? If I break something, I know that I can get a backup.
 
-Now that you have your workspace set up, what do you want to try using Git for? I want to use GIT to backup my work in the cloud
+Now that you have your workspace set up, what do you want to try using Git for? I want to use GIT to backup my work in the cloud.

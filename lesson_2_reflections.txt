@@ -9,3 +9,5 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure? They help me visualize what has taken place.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do? The result is that I have the result of 2 branches. We represent it in the diagram to show that we have 2 branches combines.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually? Pro - It is easier. Con - Sometimes you have to figure out what changes are correct in the 2 branches.
